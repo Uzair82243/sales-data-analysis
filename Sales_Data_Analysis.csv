@@ -1,0 +1,9 @@
+Product,Region,Units Sold,Price per Unit,Revenue,,Product,Total revenue,,Region,Total Revenue
+Laptop,Karachi,2,100000,200000,,Laptop,300000,,Karachi,218000
+Mouse,Lahore,10,1000,10000,,Mouse,18000,,Lahore,110000
+Keyboard,Karachi,5,2000,10000,,Keyboard,10000,,,
+Laptop,Lahore,1,100000,100000,,,,,,
+Mouse,Karachi,8,1000,8000,,,,,,
+,,,Total Revenue,328000,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
